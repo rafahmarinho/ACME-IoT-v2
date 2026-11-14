@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.local
+.env*.local
+dist/
+web-build/
+.expo/
+.vercel/
+*.tsbuildinfo
+apps/mobile/android/
+apps/mobile/ios/
+supabase/.temp/
+supabase/.branches/
+.DS_Store

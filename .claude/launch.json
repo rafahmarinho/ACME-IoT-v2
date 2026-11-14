@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "web", "runtimeExecutable": "pnpm", "runtimeArgs": ["--filter", "@acme/mobile", "exec", "expo", "start", "--web", "--port", "8081"], "port": 8081 },
+    { "name": "api", "runtimeExecutable": "pnpm", "runtimeArgs": ["--filter", "@acme/api", "dev"], "port": 3001 }
+  ]
+}

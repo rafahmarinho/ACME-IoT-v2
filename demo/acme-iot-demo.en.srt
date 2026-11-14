@@ -1,0 +1,112 @@
+1
+00:00:00,150 --> 00:00:04,908
+This is ACME IoT, a building intelligence platform that
+runs on the web,
+
+2
+00:00:04,958 --> 00:00:07,512
+Android and iOS from a single codebase.
+
+3
+00:00:07,562 --> 00:00:10,183
+Let's sign in with a demo owner account.
+
+4
+00:00:11,007 --> 00:00:16,538
+The dashboard shows devices online, open alerts, average
+temperature and plug load,
+
+5
+00:00:16,588 --> 00:00:19,430
+next to a live 3D twin of the busiest room.
+
+6
+00:00:20,249 --> 00:00:22,203
+Every room has its own 3D view.
+
+7
+00:00:22,253 --> 00:00:27,829
+You can orbit the scene, overlay a temperature heatmap, or
+switch to a flat floor plan.
+
+8
+00:00:32,299 --> 00:00:36,399
+Spaces are organized by organization, building and room.
+
+9
+00:00:37,163 --> 00:00:39,109
+The device list supports search,
+
+10
+00:00:39,159 --> 00:00:43,101
+filters and sorting across thermostats, smart plugs and
+sensors.
+
+11
+00:00:45,093 --> 00:00:48,171
+On a thermostat, we raise the target temperature.
+
+12
+00:00:48,221 --> 00:00:51,235
+The command travels through the HTTP device API,
+
+13
+00:00:51,285 --> 00:00:55,639
+and the page compares the desired state with what the
+device reports.
+
+14
+00:00:56,455 --> 00:01:01,565
+New devices are registered by scanning a QR code or typing
+the claim code from the label.
+
+15
+00:01:06,741 --> 00:01:09,868
+Automations are simple condition and action rules,
+
+16
+00:01:09,918 --> 00:01:12,917
+with a cooldown between runs and a full history.
+
+17
+00:01:13,744 --> 00:01:17,856
+In the simulation lab, we choose a heatwave and advance
+time.
+
+18
+00:01:17,906 --> 00:01:23,724
+Readings, batteries, connectivity, firmware and
+automations all move forward together.
+
+19
+00:01:24,474 --> 00:01:29,104
+Alerts arrive in real time, and operators can acknowledge
+or resolve them.
+
+20
+00:01:29,857 --> 00:01:34,947
+Firmware rollouts track progress, and roll back
+automatically when verification fails.
+
+21
+00:01:35,699 --> 00:01:40,859
+Integrations forward alerts to tools like Slack, and the
+team page manages roles.
+
+22
+00:01:41,611 --> 00:01:44,793
+On a phone, navigation moves to bottom tabs.
+
+23
+00:01:44,843 --> 00:01:49,861
+Here, a viewer account gets read-only access, with
+controls disabled.
+
+24
+00:01:50,617 --> 00:01:51,380
+ACME IoT.
+
+25
+00:01:51,430 --> 00:01:56,347
+Every building, every room, every device, in one place.
+
